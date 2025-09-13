@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Grant Hohol, a Computer Science and Statistics undergrad at UW-Madison who is passionate about programming and exploring the world through data. I'm growing an intense interest for autonomous, real-time systems, especially after my internship at Leidos this past summer where I worked on sensor tasking for Space Domain Awareness. Check out some of my work on this page. It's a bit brief, but I am continously developing, so there is more to come.
+### 👋 Hi, I’m Grant Hohol, a Computer Science and Statistics undergrad at UW-Madison who is passionate about programming and exploring the world through data. I've been traditionally drawn towards modeling and ML, but I'm growing an intense interest for autonomous, real-time systems, especially after my internship at Leidos this past summer where I worked on sensor tasking for Space Domain Awareness. Check out some of my work on this page. It's a bit brief, but I am continously developing, so there is more to come.
 
 ## 🚀 Tech Stack
 
