@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @granthohol, a student at UW-Madison majoring in Computer Science and Statistics who is passionate about programming and exploring the world through data. I'm looking for opportunities where I can expand my knowledge, learn from great mentors, and contribute to a great company. Check out the work on my page to learn more about what I'm all about.
+### 👋 Hi, I’m Grant Hohol, a Computer Science and Statistics undergrad at UW-Madison who is passionate about programming and exploring the world through data. I'm growing an intense interest for autonomous, real-time systems, especially after my internship at Leidos this past summer where I worked on sensor tasking for Space Domain Awareness. Check out some of my work on this page. It's a bit brief, but I am continously developing, so there is more to come.
 
 ## 🚀 Tech Stack
 
 ### 🧑‍💻 Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
 </p>
 
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="TensorRT"/>
 </p>
 
-### 🧰 DevOps / Containers / Orchestration
+### 🧰 DevOps
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
@@ -26,11 +26,12 @@
 
 ### 🌐 APIs / Databases
 <p>
-  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Hoppscotch-5CC9F5?style=for-the-badge&logo=hoppscotch&logoColor=white" alt="Hoppscotch"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-### 🖥️ Systems / Shell / VCS
+### 🖥️ Systems / Shell
 <p>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
